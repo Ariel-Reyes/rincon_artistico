@@ -325,3 +325,48 @@ height: 45px;
 #obras img{
 	padding: 30PX;
 }
+
+
+#banner-curso{
+	color: #fff!important;
+	background: url("../img/Curso.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 20% 0;
+	mix-blend-mode: multiply;
+	box-shadow: inset 0 0 0 2000px rgba(0,7,8,0.60);
+	
+}
+
+#banner-curso h1{
+	text-align: center;
+	color: #FFFDFD;
+	font-family: 'Cinzel', serif;
+
+}
+
+.card{
+	width: 18rem;
+	
+}
+
+.card-img-top{
+	width: 17.875rem;
+	height:13.438rem ;
+}
+
+
+
+.obras .col{
+	padding-bottom: 40px;
+
+}
+
+.siguiente-pagina{
+	text-align: center;
+}
+
+.siguiente-pagina{
+	text-align: center;
+}
+
